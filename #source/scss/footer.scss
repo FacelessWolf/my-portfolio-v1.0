@@ -1,0 +1,38 @@
+/*CSS стили footer*/
+
+footer {
+	padding-bottom: 30px;
+}
+
+.social {
+	
+}
+
+.icons li {
+	
+}
+
+.icons__item {
+	border: 1px solid #000;
+	width: 50px;
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+.icons__item a {
+	width: inherit;
+	font-size: 38px;
+	color: #000;
+	display: block;
+	
+}
+
+.copyright {
+	font-family: "Times New Roman", Times, Baskerville, Georgia, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	padding-right: 60px;
+}
+
+/*Конец CSS стилей footer*/

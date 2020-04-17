@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/*CSS стили header*/
+.cont-header {
+  padding-top: 60px;
+}
+
+.img-logo {
+  width: 100px;
+  height: 50px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.text-descriptor {
+  display: inline-block;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  margin: 0;
+  max-width: 300px;
+  padding-top: 10px;
+  letter-spacing: 0.025em;
+  font-weight: bold;
+}
+
+/*Конец CSS стилей header*/

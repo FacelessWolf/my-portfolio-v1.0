@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS стили body и тегов */
+body {
+  background-color: #e5e5e5;
+  color: #000;
+}
+
+ul, li {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+/* Конец CSS стилей body и тегов */
